@@ -1,4 +1,4 @@
-# Experimental-level-creation
+# Experimental-level-recreation
 
 The creation of levels is possible but laborious for lack of appropriate tools at the moment. What could be done automatically in a few seconds must for the moment be done by hand in several hours. This is why the lighting is so bad because you have to write color values for the lighting of each vertex. Without brush, it takes hours.
 
